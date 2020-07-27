@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+div{
+	 background-image: url("../img/Ana.jpg");
+	 width: 100vw;
+	 height: 50vw;
+	 background-position: center;
+	 background-repeat: no-repeat;
+	 background-size: cover; 
+}
+body{
+	background-color: black;
+}
+h1{
+	color: white;
+	font-family: "Lobster";
+	text-align: center;
+	font-size: 5vw;
+}
+h2{
+	color: white;
+	font-family: "Lobster"
+	font-size:3vw;
+
+}
+p{ 
+	color: white;
+	text-align: justify;
+	font-family: "Raleway"
+	font-size:2vw;
+}
+ul{
+	color: white;
+	font-family: "Raleway"
+	font-size:2vw;
+}
+img{
+	width: 25vw;
+	margin: 3vw
+}
+table{
+	color:white;
+	width: 100vw;
+	border border-collapse: collapse;
+	font-family: "Raleway"
+	font-size:2vw;
+	 
+}
+th,td{
+	text-align: left;
+	padding: 8px;
+	border-bottom: 1px solid gray; 
+}
+tr:hover{
+background-color:rgb(255,255,255,0.1); 
+}
+
+.redes{
+	width: 10vw;
+	height: 10vw;
+}
